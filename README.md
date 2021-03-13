@@ -8,4 +8,6 @@ Step - 6: Wait till "Downloaded" message is display
 Step - 7: Validate downloaded Vedio on same folder as py script.
 
 Make sure to have following componenet installed:
-pytube, requests
+-pytube, 
+-requests
+-Python 3.7 and above versions.
